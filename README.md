@@ -137,3 +137,8 @@ In the repo to generate the platform projects for the tutorials.
 **002 - Smarter Flare Animations in Flutter - An Experiment** \[ [Video](https://youtu.be/vsyjMrZa5OU) \] \[ [Written](https://www.filledstacks.com/post/reducing-boilerplate-code-in-flutter-using-flare) \] \[ [Source](https://github.com/FilledStacks/flutter-tutorials/tree/master/002-flutter-flare-pt1) \] - In this tutorial we look at how to reduce animation boiler plate code in Flutter using some basic calculations and the Awesome Flare.
 
 **001 - Building a UI in Flutter - TikTok example:** \[ [Video](https://youtu.be/kJ2mGh5BLYk) \] \[ [Written P1](https://www.filledstacks.com/post/building-tik-tok-s-ui-in-flutter-the-building-process) \] \[[Written P2](https://www.filledstacks.com/post/building-tik-tok-s-ui-in-flutter-from-layout-to-polish)\] \[[Source](https://github.com/FilledStacks/flutter-tutorials/tree/master/001-tik_tok_ui)\] - In this tutorial we break down the UI into Flutter Widgets, complete our layout and then tweak to get our final design to match our screenshots.
+
+
+## fulStack Flutter
+
+https://www.youtube.com/watch?v=9Q8Fzs2rLNc&list=PLFhJomvoCKC-HHwfZzIy2Mv59Uen88rqB&index=1
